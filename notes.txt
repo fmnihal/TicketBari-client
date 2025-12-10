@@ -1,0 +1,7 @@
+Admin Email: admin@ticket-bari.com
+Admin Password: admin123
+Vendor Email: vendor@ticket-bari.com
+Vendor Password: vendor123
+Live Site Link : http://fmnihal-ticket-bari.surge.sh/
+Github Repository ( server ) : https://github.com/fmnihal/TicketBari-server
+Github Repository ( client ) : https://github.com/fmnihal/TicketBari-client
