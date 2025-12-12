@@ -3,7 +3,7 @@ import React from 'react';
 const AllTickets = () => {
     return (
         <div>
-            All Tickets
+            <h1>Explore all Available Tickets</h1>
         </div>
     );
 };
