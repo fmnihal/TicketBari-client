@@ -5,3 +5,11 @@ Vendor Password: vendor123
 Live Site Link : http://fmnihal-ticket-bari.surge.sh/
 Github Repository ( server ) : https://github.com/fmnihal/TicketBari-server
 Github Repository ( client ) : https://github.com/fmnihal/TicketBari-client
+
+
+============================================================================
+Landing: Home, All Tickets
+Auth: Login, Register, Dashboard, Ticket Details
+Dashboard: Layout, Profile, Bookings, Transactions, History
+Vendor: Layout, Profile, My Added Tickets, Add New Ticket, Requested Bookings, Revenue Overview
+Admin: Layout, Profile, Manage Tickets, Manage Users, Advertise Tickets
